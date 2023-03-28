@@ -1,6 +1,11 @@
 {
-  "name": "vlkn4l223lkn23lkn",
+  "name": "@scmst/github-learn-6",
   "version": "1.0.0",
-  "description": "GeeksForGeeks",
-  "main": "index.js"
+  "description": "test package",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "author": "",
+  "license": "ISC"
 }
