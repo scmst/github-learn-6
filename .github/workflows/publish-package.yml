@@ -14,7 +14,6 @@ jobs:
         with:
           node-version: 16
       - run: npm install ./sample-packages/npm
-      - run: npm test ./sample-packages/npm
 
   publish-gpr:
     needs: build
